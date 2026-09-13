@@ -1,16 +1,12 @@
 {
-  "schemaVersion": 1,
   "packages": [
     {
       "id": "canon-generic-pcl6",
       "manufacturer": "Canon",
       "displayName": "Canon Generic Plus PCL6",
-      "match": ["Canon"],
       "matchModels": ["LBP214dw", "LBP243dw", "LBP214", "LBP243"],
       "recommended": false,
       "version": "3.50",
-      "localFolder": "Canon_GPlus_PCL6_Driver_V350_32_64_00",
-      "releaseZip": "canon-generic-pcl6-v3.50-x64.zip",
       "url": "https://github.com/sHARPPY-EGM/install-printer-drivers/releases/download/drivers-v1/canon-generic-pcl6-v3.50-x64.zip",
       "sha256": "31FA9303FC0970461D49BFE24FC95F39B4A2822EC19CDE7F443F844D850C5580",
       "infHint": "CNP60MA64.INF"
@@ -19,12 +15,9 @@
       "id": "canon-generic-ufr2",
       "manufacturer": "Canon",
       "displayName": "Canon Generic Plus UFR II",
-      "match": ["Canon"],
       "matchModels": ["LBP214dw", "LBP243dw", "LBP214", "LBP243"],
       "recommended": true,
       "version": "3.50",
-      "localFolder": "Canon_GPlus_UFRII_Driver_V350_32_64_00",
-      "releaseZip": "canon-generic-ufr2-v3.50-x64.zip",
       "url": "https://github.com/sHARPPY-EGM/install-printer-drivers/releases/download/drivers-v1/canon-generic-ufr2-v3.50-x64.zip",
       "sha256": "D91F44DB09CE234B2BF6D979732B0061A7E04FCD21371722D7B308813AA5AFAA",
       "infHint": "CNLB0MA64.INF"
@@ -33,7 +26,6 @@
       "id": "brother-l2290-series",
       "manufacturer": "Brother",
       "displayName": "Brother HL-L2290+/L2370-Serie (u.a. HL-L2370DN)",
-      "match": ["Brother"],
       "matchModels": [
         "HL-L2370DN", "HL-L2370DW", "HL-L2371DN", "HL-L2375DW", "HL-L2379DW",
         "HL-L2310D", "HL-L2325DW", "HL-L2330D", "HL-L2335D", "HL-L2350DW",
@@ -43,8 +35,6 @@
       ],
       "recommended": true,
       "version": "l2290+",
-      "localFolder": "Brother_driver_l2290+",
-      "releaseZip": "brother-l2290-series-x64.zip",
       "url": "https://github.com/sHARPPY-EGM/install-printer-drivers/releases/download/drivers-v1/brother-l2290-series-x64.zip",
       "sha256": "9E39F78F772055D3925288E55F06C5D1848B77C81D88941AFD6A39D8B015F3E0",
       "infHint": "BROHL17A.INF"
@@ -53,7 +43,6 @@
       "id": "brother-l2400-series",
       "manufacturer": "Brother",
       "displayName": "Brother HL-L2400-Serie (u.a. HL-L2400DW)",
-      "match": ["Brother"],
       "matchModels": [
         "HL-L2400DW", "HL-L2400D", "HL-L2400DWE", "HL-L2402D", "HL-L2405W",
         "HL-L2420DW", "HL-L2440DW", "HL-L2442DW", "HL-L2445DW", "HL-L2447DW",
@@ -64,25 +53,20 @@
       ],
       "recommended": true,
       "version": "l2400+",
-      "localFolder": "Brother_driver_l2400+",
-      "releaseZip": "brother-l2400-series-x64.zip",
       "url": "https://github.com/sHARPPY-EGM/install-printer-drivers/releases/download/drivers-v1/brother-l2400-series-x64.zip",
       "sha256": "D8FD87FED3C35684AA608AB1D5F5C9AB562139FDC7B672711A01CF45482EBB3B",
       "infHint": "BROHL22A.INF"
     },
-        {
+    {
       "id": "canon-ts3100-series",
       "manufacturer": "Canon",
       "displayName": "Canon TS3100 series",
-      "match": ["Canon"],
       "matchModels": [
         "TS3100", "TS3110", "TS3120", "TS3140", "TS3150", "TS3151",
         "TS3170", "TS3180", "TS3100 series", "CanonTS3100"
       ],
       "recommended": true,
       "version": "1.03",
-      "localFolder": "canon_ts3100-1_03-ea34_2",
-      "releaseZip": "canon-ts3100-series-x64.zip",
       "url": "https://github.com/sHARPPY-EGM/install-printer-drivers/releases/download/drivers-v1/canon-ts3100-series-x64.zip",
       "sha256": "80250EA83BF626D947F059220B07A1D977E85A10CF0CDABE7C84BDD55CA3A2D1",
       "infHint": "TS3100P6.INF"
