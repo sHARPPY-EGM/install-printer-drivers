@@ -65,7 +65,7 @@
         "TS3100", "TS3110", "TS3120", "TS3140", "TS3150", "TS3151",
         "TS3170", "TS3180", "TS3100 series", "CanonTS3100"
       ],
-      "recommended": true,
+      "recommended": false,
       "version": "1.03",
       "url": "https://github.com/sHARPPY-EGM/install-printer-drivers/releases/download/drivers-v1/canon-ts3100-series-x64.zip",
       "sha256": "80250EA83BF626D947F059220B07A1D977E85A10CF0CDABE7C84BDD55CA3A2D1",
